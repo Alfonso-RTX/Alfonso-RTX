@@ -2,7 +2,7 @@
 
 🎓 I’m a student and aspiring software developer  
 📚 Currently learning **Python**, **Kotlin** and **C#**  
-💡 Passionate about **Android development** and **DevOps**  
+💡 Passionate about **Android development** 
 🚀 Looking to contribute to open-source projects and collaborate with fellow developers  
 🌍 Pronouns: He/Him/His  
 🌱 Fun Fact: **Every bug is an opportunity to learn.**
