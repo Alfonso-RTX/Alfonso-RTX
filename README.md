@@ -7,6 +7,14 @@
 🌍 Pronouns: He/Him/His  
 🌱 Fun Fact: **Every bug is an opportunity to learn.**
 
+<div>
+  <img src = https://octodex.github.com/images/okal-eltocat.jpg width="200" align= "right"/>
+</div>
+
+<div>
+  <img src = https://octodex.github.com/images/daftpunktocat-thomas.gif width="200" align= "right"/>
+</div>
+
 #Languages and Tools:
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) 
@@ -25,4 +33,4 @@
 - 💻 In my free time, I enjoy contributing to open-source projects and learning new technologies  
 - 🎯 My goal is to become a full-stack developer, with a strong focus on front-end and mobile development
 
-<img src = https://octodex.github.com/images/okal-eltocat.jpg width="200" align= "right"/>
+
