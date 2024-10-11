@@ -15,15 +15,7 @@
   <img src = https://octodex.github.com/images/linktocat.jpg width="200" align= "right"/>
 </div>
 
-<div>
-  <img src = https://octodex.github.com/images/daftpunktocat-thomas.gif width="200" align= "right"/>
-</div>
-
-<div>
-  <img src = https://octodex.github.com/images/adventure-cat.png width="200" align= "right"/>
-</div>
-
-#Languages and Tools:
+###Languages and Tools:
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
@@ -34,11 +26,18 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visual-studio)
 
-#About me:
 ### 🌟 About Me
 
 - 💼 I'm excited about building Android apps and working on design-driven development  
 - 💻 In my free time, I enjoy contributing to open-source projects and learning new technologies  
 - 🎯 My goal is to become a full-stack developer, with a strong focus on front-end and mobile development
+
+<div>
+  <img src = https://octodex.github.com/images/daftpunktocat-thomas.gif width="200" align= "right"/>
+</div>
+
+<div>
+  <img src = https://octodex.github.com/images/adventure-cat.png width="200" align= "right"/>
+</div>
 
 
