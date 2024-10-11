@@ -12,7 +12,15 @@
 </div>
 
 <div>
+  <img src = https://octodex.github.com/images/linktocat.jpg width="200" align= "right"/>
+</div>
+
+<div>
   <img src = https://octodex.github.com/images/daftpunktocat-thomas.gif width="200" align= "right"/>
+</div>
+
+<div>
+  <img src = https://octodex.github.com/images/adventure-cat.png width="200" align= "right"/>
 </div>
 
 #Languages and Tools:
