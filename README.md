@@ -24,3 +24,5 @@
 - 💼 I'm excited about building Android apps and working on design-driven development  
 - 💻 In my free time, I enjoy contributing to open-source projects and learning new technologies  
 - 🎯 My goal is to become a full-stack developer, with a strong focus on front-end and mobile development
+
+<img src = https://octodex.github.com/images/okal-eltocat.jpg width="200" align= "right"/>
